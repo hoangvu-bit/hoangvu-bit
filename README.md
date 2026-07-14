@@ -1,4 +1,7 @@
 
+
+<span style="color: #ff0000;">Dòng chữ này sẽ có màu đỏ</span>
+<span style="color: #00ffff;">Dòng chữ này sẽ có màu xanh cyan</span>
 <br/>
 
 <!-- Activity Graph -->
