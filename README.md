@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/330170/132962659-9dc5bdf0-f978-49b3-ae34-53ca53a858d5.gif" width="150" alt="Rocking Cat" />
   <br/>
   <!-- Lời chào hiệu ứng gõ chữ (Màu xanh cyan) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=👋+Chào+mừng+đến+với+GitHub+của+hoangvu-bit!;💻+Mình+là+một+lập+trình+viên;🚀+Web+%7C+Java+%7C+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=👋+welcome+to+my+Profile+GitHub+💻;🚀+Web+%7C+Java+%7C+C%23" alt="Typing SVG" />
 </div>
 
 <br/>
