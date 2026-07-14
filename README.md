@@ -8,7 +8,7 @@
 
 <br/>
 
-<h3 align="center">📊 Thống kê GitHub</h3>
+<h3 align="center">📊 Github statistics</h3>
 <div align="center">
   <!-- Đã xóa thẻ lỗi, chỉ giữ lại thẻ Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangvu-bit&theme=react-dark&hide_border=false" alt="Streak Stats" />
