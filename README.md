@@ -16,10 +16,10 @@
 
 <br/>
 
-<h3 align="center">📈 Biểu đồ hoạt động 31 ngày</h3>
+<h3 align="center">📈 31-day activity chart</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangvu-bit&theme=react-dark" alt="Activity Graph" />
 </div>
 
 <br/>
-<p align="center" style="font-size: 12px; color: #888;">Cảm ơn bạn đã ghé thăm Profile của mình!</p>
+<p align="center" style="font-size: 12px; color: #888;">Thank you for visiting my profile!</p>
