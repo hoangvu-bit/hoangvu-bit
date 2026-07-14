@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**hoangvu-bit/hoangvu-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là một lập trình viên thích tạo ra các dự án thú vị. Dưới đây là một số thông tin về mình:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **dự án BTL_Web_am_thuc và SnakeGame**
+- 🌱 I’m currently learning **thêm về C# và Java**
+- 👯 I’m looking to collaborate on **các dự án mã nguồn mở về Web**
+- 📫 How to reach me: **[Điền email hoặc link Facebook của bạn vào đây]**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Mình rất thích chơi game và code!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📊 Thống kê GitHub của mình
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangvu-bit&show_icons=true&theme=radium" alt="hoangvu-bit's GitHub stats" />
+</div>
