@@ -2,15 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=150&section=header&text=Chào%20mừng%20đến%20với%20GitHub!&fontSize=35&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Gradient" />
 </div>
 
-> [!NOTE]
-> ### 💻 Về bản thân mình
-> Mình là một lập trình viên đam mê học hỏi và khám phá công nghệ mới. <br/>
-> Hiện tại mình đang tập trung vào phát triển **Web, Java và C#**.
 
 <div align="center">
-  <h3>📫 Liên hệ với mình</h3>
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 </div>
 
 <br/>
